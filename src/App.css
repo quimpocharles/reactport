@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans", sans-serif;
+}
+
+.heading-text {
+	font-family: "Montserrat", sans-serif;
+}
+
+#gmap {
+	height: 100%;
+	width: 100%;
+}
